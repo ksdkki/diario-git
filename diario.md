@@ -1,0 +1,1 @@
+Día 1. Hoy he instalado Git y no sé para qué sirve.
