@@ -1,1 +1,0 @@
-¿Puedo recuperar un archivo borrado por error en Git?
